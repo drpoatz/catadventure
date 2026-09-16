@@ -1,2 +1,2 @@
 # Cat Adventure
-Text-based adventure game which allows for creating, saving, and importing custom characters and weapons.
+A text-based adventure game which allows for creating, saving, and importing custom characters and weapons.
