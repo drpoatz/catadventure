@@ -1,0 +1,6 @@
+name: Garret
+age: 24
+height: 3.11
+weapon: Slingshot
+weaponType: 2
+~
